@@ -2,4 +2,5 @@
 Solving the questioins of DSA with different methods and approaches<br>
 1 - Two Sum <br>
 2 - Best Time to Buy and Sell Stock <br>
-3 - Contains Duplicate
+3 - Contains Duplicate <br>
+4 - Maximum Subarray <br>
